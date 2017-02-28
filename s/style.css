@@ -1,13 +1,13 @@
 .black{
 	width: 120px;
 	height: 120px;
-	background: black;
+	background: #884107;
 	float: left;
 }
 .white{
 	width: 120px;
 	height: 120px;
-	background: white;
+	background: #FFD7AB;
 	float: left;
 }
 .wrapper{
